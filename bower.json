@@ -1,0 +1,21 @@
+{
+  "name": "shaping_up_with_angular",
+  "homepage": "https://github.com/KyleMacPherson/Shaping-up-with-Angular",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.7",
+    "angular-resource": "~1.4.7"
+  }
+}
