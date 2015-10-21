@@ -1,0 +1,19 @@
+{
+  "name": "shaping_up_with_angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KyleMacPherson/Shaping-up-with-Angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KyleMacPherson/Shaping-up-with-Angular/issues"
+  },
+  "homepage": "https://github.com/KyleMacPherson/Shaping-up-with-Angular"
+}
