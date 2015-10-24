@@ -70,12 +70,8 @@
         body: "BBW: High Shine != High Quality.",
         author: "LouisW407@example.org",
         createdOn: 1397490980837
-      }, {
-        stars: 1,
-        body: "Don't waste your rubles!",
-        author: "nat@example.org",
-        createdOn: 1397490980837
-      }]
+      }
+      ]
     }];
 
   var app = angular.module('gemStore', []);
